@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "for education on SF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omentos/SF-nodejs.git"
+  },
+  "author": "YuriyP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omentos/SF-nodejs/issues"
+  },
+  "homepage": "https://github.com/omentos/SF-nodejs#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
